@@ -1,0 +1,11 @@
+D:\apps files\.vscode\opencv\Mansoura College Programming\Cashier Project\bin\Debug\Cashier Project.exe.config
+D:\apps files\.vscode\opencv\Mansoura College Programming\Cashier Project\bin\Debug\Cashier Project.exe
+D:\apps files\.vscode\opencv\Mansoura College Programming\Cashier Project\bin\Debug\Cashier Project.pdb
+D:\apps files\.vscode\opencv\Mansoura College Programming\Cashier Project\obj\Debug\Cashier Project.csproj.AssemblyReference.cache
+D:\apps files\.vscode\opencv\Mansoura College Programming\Cashier Project\obj\Debug\Cashier Project.csproj.SuggestedBindingRedirects.cache
+D:\apps files\.vscode\opencv\Mansoura College Programming\Cashier Project\obj\Debug\Cashier_Project.Form1.resources
+D:\apps files\.vscode\opencv\Mansoura College Programming\Cashier Project\obj\Debug\Cashier_Project.Properties.Resources.resources
+D:\apps files\.vscode\opencv\Mansoura College Programming\Cashier Project\obj\Debug\Cashier Project.csproj.GenerateResource.cache
+D:\apps files\.vscode\opencv\Mansoura College Programming\Cashier Project\obj\Debug\Cashier Project.csproj.CoreCompileInputs.cache
+D:\apps files\.vscode\opencv\Mansoura College Programming\Cashier Project\obj\Debug\Cashier Project.exe
+D:\apps files\.vscode\opencv\Mansoura College Programming\Cashier Project\obj\Debug\Cashier Project.pdb
